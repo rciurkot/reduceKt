@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/runConfigurations_default
+.mainframer/config
+.DS_Store
+/build
+/captures
+*.iml
+test.properties
